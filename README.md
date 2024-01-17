@@ -54,13 +54,13 @@
 ### 📫 How to reach me: ...
 <div >
  <a href="mailto:arunraju9837@gmail.com?">
- <a href="https://github.com/arunnintriva" target="_blank" rel="noreferrer">
+ <a href="https://github.com/mkabhijith" target="_blank" rel="noreferrer">
   <img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/dff84cdf-5bb1-4955-ba8c-03527d0a1c41" alt="GitHub" width="35" height="35">
 </a>
-<a href="https://www.linkedin.com/in/arun-raju-05374a1b7" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/abhijith-m-715299218" target="_blank" rel="noreferrer">
   <img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/3c132fe4-03d2-48ef-ac82-978ef3ef7b23" alt="LinkedIn" width="35" height="35">
 </a>
- <a href="https://www.instagram.com/stroke_4_/?igshid=MzRlODBiNWFlZA%3D%3D" target="_blank" rel="noreferrer">
+ <a href="https://www.instagram.com/abhi_jith_.mk" target="_blank" rel="noreferrer">
   <img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/9d42e0cc-a4a4-4cd8-92c3-712ae92e7540" alt="Instagram" width="35" height="35">
 </a>
 </div>
@@ -70,6 +70,6 @@
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/arunnintriva"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arunnintriva&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/mkabhijith"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arunnintriva&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/arunnintriva" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunnintriva&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/mkabhijith" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunnintriva&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
